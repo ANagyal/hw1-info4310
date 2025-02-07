@@ -1,0 +1,3 @@
+- Opacity
+- Maybe separate plots for DBH + Age
+- Reverse color scale for age or add legend
